@@ -18,7 +18,7 @@ The original dataset can be downloaded [here](https://d396qusza40orc.cloudfront.
 * subject - id number indicating experiment participant.
 * activity - names for the different activities during the experiment.
 
-The following variables are the mean values for every subject and activity. Descriptions can be found in `features.txt`    
+The following variables are the mean values for every subject and activity. Descriptions can be found in `features.txt` located in the original dataset.    
 * tBodyAcc.mean...X
 * tBodyAcc.mean...Y
 * tBodyAcc.mean...Z
